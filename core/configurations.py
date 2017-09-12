@@ -1,4 +1,3 @@
-
 class Config(object):
     """
     Base class to change Config Details for the application
